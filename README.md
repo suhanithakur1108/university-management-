@@ -1,4 +1,1 @@
-# university-management-system bkwas project
-jnjjjnj
-kkmkmkmkm
-jnnj
+# university-management-system 
