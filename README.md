@@ -6,12 +6,12 @@ University Management System is a desktop-based application that allows a user t
 
 A user can carry out the following tasks:
 
--Register a Student
--Register a Teacher
--See Student / Teacher details
+- Register a Student
+- Register a Teacher
+- See Student / Teacher details
 - Update Student details
--Update Teacher details
--Apply for tacher/student leave
+- Update Teacher details
+- Apply for tacher/student leave
 
  ### 2.Technologies Used :
 * Programming Language: Java
